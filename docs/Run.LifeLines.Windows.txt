@@ -1,12 +1,13 @@
 Running LifeLines Genealogy Software for Windows
   Last Edited: 2003-03-05 by Perry Rapp
   Updated:     2005-10-20 by Larry Hamilton
+  Updated:     2020-01-04 by Larry Hamilton
 
 (This presumes you have installed it, per the
 Install.LifeLines.Windows.txt document)
 
 1) Double-click on the shortcut on your desktop for
-LifeLines.  A Console (or "DOS") window should open, with
+LifeLines.  A Console window should open, with
 the title bar giving the LifeLines version, and with a
 prompt in the middle of the screen, asking "What directory
 holds the LifeLines database ?  enter path:"
@@ -16,14 +17,14 @@ be a valid Windows directory name (no slashes, no colon, no
 quotation marks...).  LifeLines will then create & open this
 brand new empty database for you.
 
-This will be a directory underneath your lifelines database
+This will be a directory underneath your LifeLines database
 directory, and you can rename it at any time later by simply
 renaming the directory -- of course you should not do this
 whilst you have that database open in LifeLines.
 
 3) At this point, your best course of action is to begin
 reading the users manual. This is available in the Documentation
-directory under the main Lifelines directory. The name of the
+directory under the main LifeLines directory. The name of the
 manual is ll-userguide, and comes in text, PDF, HTML, and XML
 versions.
 
@@ -65,13 +66,12 @@ to tell you that you are viewing the first page of three
 pages of menu choices for the current screen.
 
 6) If you want to read in a GEDCOM file, the default configuration
-is to look for it in the lifelines directory. To specify a
+is to look for it in the LifeLines directory. To specify a
 different directory, change the InputPath:= setting.
 
-7) If you wish to change the colors in the console window
-(the "DOS" window), the following explains how. (This is 
-actually not part of LifeLines, but is general DOS on 
-Windows trivia).
+7) If you wish to change the colors in the console window,
+the following explains how. (This is actually not part of 
+LifeLines, but is general Windows trivia).
 
 Run the program (This may also be done for the specific shortcut
 by right-clicking the shortcut and modifying the screen and 
